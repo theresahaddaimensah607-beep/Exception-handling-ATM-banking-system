@@ -53,6 +53,3 @@ This project demonstrates:
 
 ## Author
 Theresah Addai Mensah
-
-## License
-This project was created for educational purposes as part of an Object-Oriented Programming case study.
